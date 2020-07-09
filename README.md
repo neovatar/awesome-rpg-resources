@@ -8,7 +8,7 @@ Also: *Beware of manticores!*
 - [Mapping](#mapping)
     - [Mapping Software](#mapping-software)
     - [Map Assets](#map-assets)
-    - [Map Generators](#map-generators)
+    - [Random Map Generators](#random-map-generators)
 - [Virtual Tabletop Software](#virtual-tabletop-software)
 
 ## Mapping
@@ -23,7 +23,7 @@ Also: *Beware of manticores!*
 * [Cartography Assets](https://www.cartographyassets.com/) ![free] - Mapping assets aggregation site. Has sets for various mapping software, mostly free.
 * [The Forgotten Adventures](https://www.forgotten-adventures.net/) ![free] ![paid] - Nice quality assets for your maps.
 
-### Map Generators
+### Random Map Generators
 * [Dojon Random Dungeon Generator](https://donjon.bin.sh/d20/dungeon/) ![free] - Generates random typical d20 dungeons for crawling. Has encounters, doors, traps. Ready to crawl!
 * [Watabous One Page Dungeon](https://watabou.itch.io/one-page-dungeon) ![free] - Generate dungeons fitting on one page. Also exports to [Mipui](https://www.mipui.net/app/) and [RPG Map II](https://deepnight.net/tools/rpg-map/).
 * [Watabous Village Generator](https://watabou.itch.io/village-generator) ![free] - Generate village maps. Amazing!
