@@ -31,7 +31,7 @@ Also: *Beware of manticores!*
 * [Watabous Procgen Mansion](https://watabou.itch.io/procgen-mansion) ![free] - Procedurally generated 3D mansions. You also get the floor plans. Take that, Cthulhu!
 * [Watabous Medieval City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) ![free] -  Generate maps of whole medieval cities! Import them into [Watabous City Viewer](https://watabou.itch.io/city-viewer) for a 3D view of the city! How amazing is this?
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)] ![free] - Procedurally generate a map of whole continent or world. Complete with biomes, empire names and political maps. Then play around with the editor to change things. Perfect start for generating your homebrew world!
-* [Red Blob Games Mapgen4](https://www.redblobgames.com/maps/mapgen4/) - Another generator that produces "island style" land maps. 
+* [Red Blob Games Mapgen4](https://www.redblobgames.com/maps/mapgen4/) ![free] - Another generator that produces "island style" land maps. 
 * [Gozzys Random Map Generators](http://gozzys.com/) ![free] - Generate simple random dungeon, cave or wilderness battlemaps.
 * [Dungeon Generator](http://dungeon-generator.fantasy-calendar.com/) ![free] - Generate nice looking dungeon maps for VTT. Has Roll20 specific export options.
 * [DunGen](https://dungen.app/dungen/) ![free] ![paid] - Generate dungeon floor maps. Can also generate wall information for Roll20, FoundryVTT and Fantasy Grounds Unity.
