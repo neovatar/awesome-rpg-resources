@@ -22,6 +22,7 @@ Also: *Beware of manticores!*
 ### Map Assets
 * [Cartography Assets](https://www.cartographyassets.com/) ![free] - Mapping assets aggregation site. Has sets for various mapping software, mostly free.
 * [The Forgotten Adventures](https://www.forgotten-adventures.net/) ![free] ![paid] - Nice quality assets for your maps.
+* [Bogie's Map Elements](https://dungeonchannel.com/portfolio/bogies-map-elements/) ![free] - Pack with 729 map assets.
 
 ### Random Map Generators
 * [Dojon Random Dungeon Generator](https://donjon.bin.sh/d20/dungeon/) ![free] - Generates random typical d20 dungeons for crawling. Has encounters, doors, traps. Ready to crawl!
