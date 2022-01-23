@@ -15,6 +15,7 @@ Also: *Beware of manticores!*
 
 ### Mapping Software
 * [Dungeondraft](https://dungeondraft.net/) ![paid] - New rising star on the dungeon mapping horizon. Easy and intuitive interface.
+* [Wonderdraft](https://wonderdraft.net/) ![paid] - From the developer of Dungeondraft. Easy and intuitive map editor for world maps.
 * [Mipui](https://www.mipui.net/app/) ![free] - Browser based dungeon mapper. Also has some VTT functionality.
 * [RPG Map II](https://deepnight.net/tools/rpg-map/) ![free] - Nice browser based battlemap editor for indoor and outdoor maps.
 * [Fantasy Cartographer](https://www.profantasy.com/products/cc3.asp) ![paid] - The big old battleship of map making, powerful but hard to steer.
