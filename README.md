@@ -40,7 +40,6 @@ Also: *Beware of manticores!*
 ## Virtual Tabletop Software
 * [FoundryVTT](https://foundryvtt.com/) ![paid] - The rising star of browser based VTT software. You can host it yourself, thus keeping data sovereignty. 3rd party hosted options are also available. Easy to extend with add-ons and has a very responsive and active developer community.
 * [Roll20](https://roll20.net) ![freemium] - At the moment it's THE big browser based VTT player. Has marketplace for paid content and supports a lot of systems.
-* [Astral TableTop](https://www.astraltabletop.com/) ![freemium] - A new challenger for Roll20s throne. Browser based and hosted solution.
 * [Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) ![paid] - The big old grumpy veteran of VTT systems. The software and its UI are showing its age. Marketplace with lots of of official modules and content. New version "Fantasy Grounds Unity" developed at the moment. Some rulesets like D&D5E have the best automation available.
 
 
