@@ -10,6 +10,9 @@ Also: *Beware of manticores!*
     - [Map Assets](#map-assets)
     - [Random Map Generators](#random-map-generators)
 - [Virtual Tabletop Software](#virtual-tabletop-software)
+- [Dungeons and Dragons 5E](#dungeons-and-dragons-5e)
+    - [Helpers](#helpers)
+
 
 ## Mapping
 
@@ -21,7 +24,7 @@ Also: *Beware of manticores!*
 * [Fantasy Cartographer](https://www.profantasy.com/products/cc3.asp) ![paid] - The big old battleship of map making, powerful but hard to steer.
 
 ### Map Assets
-* [Cartography Assets](https://www.cartographyassets.com/) ![free] - Mapping assets aggregation site. Has sets for various mapping software, mostly free.
+* [Cartography Assets](https://www.cartographyassets.com/) ![free] ![paid] - Mapping assets aggregation site. Has sets for various mapping software. Free and paid assets.
 * [The Forgotten Adventures](https://www.forgotten-adventures.net/) ![free] ![paid] - Nice quality assets for your maps.
 * [Bogie's Map Elements](https://dungeonchannel.com/portfolio/bogies-map-elements/) ![free] - Pack with 729 map assets.
 
@@ -41,6 +44,12 @@ Also: *Beware of manticores!*
 * [FoundryVTT](https://foundryvtt.com/) ![paid] - The rising star of browser based VTT software. You can host it yourself, thus keeping data sovereignty. 3rd party hosted options are also available. Easy to extend with add-ons and has a very responsive and active developer community.
 * [Roll20](https://roll20.net) ![freemium] - At the moment it's THE big browser based VTT player. Has marketplace for paid content and supports a lot of systems.
 * [Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) ![paid] - The big old grumpy veteran of VTT systems. The software and its UI are showing its age. Marketplace with lots of of official modules and content. New version "Fantasy Grounds Unity" developed at the moment. Some rulesets like D&D5E have the best automation available.
+
+## Dungeons and Dragons 5E
+
+### Helpers
+* [The Thieves Guild](https://www.thievesguild.cc/harvest) ![free] - Loot tables for monster types.
+* [Jumping Distance Calculator](https://fexlabs.com/5ejump/) ![free] - Calculate jumping distance. Also has options for special class features like Monks "Step of the Wind".
 
 
 
