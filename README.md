@@ -50,6 +50,7 @@ Also: *Beware of manticores!*
 ### Helpers
 * [The Thieves Guild](https://www.thievesguild.cc/harvest) ![free] - Loot tables for monster types.
 * [Jumping Distance Calculator](https://fexlabs.com/5ejump/) ![free] - Calculate jumping distance. Also has options for special class features like Monks "Step of the Wind".
+* [OmnisGM Rules](https://rules.omnisgm.com) ![free] - Static reader for open SRDs (D&D 5.2.1/5.1, Daggerheart, BRP) with clean HTML, public Markdown sources and a complete Russian translation.
 
 
 
