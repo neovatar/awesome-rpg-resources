@@ -50,7 +50,7 @@ Also: *Beware of manticores!*
 ### Helpers
 * [The Thieves Guild](https://www.thievesguild.cc/harvest) ![free] - Loot tables for monster types.
 * [Jumping Distance Calculator](https://fexlabs.com/5ejump/) ![free] - Calculate jumping distance. Also has options for special class features like Monks "Step of the Wind".
-
+* [Narrative Kit](https://narrative-kit.com/) ![free] - Random generators for GMs and writers. Generate encounters, NPCs, quest hooks and more from finite tables.
 
 
 [free]: https://img.shields.io/badge/-free-green?style=plastic
